@@ -3,6 +3,7 @@ Build/*
 DerivedDataCache/*
 Intermediate/*
 Packages/*
+Roms/*
 Saved/*
 Content/Weapon_Pack/*
 Content/Weapons_Kit_BuiltData.uasset
