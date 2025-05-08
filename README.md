@@ -26,7 +26,7 @@ UE5.5.4
 
 ・ギミック　動く足場（BP_MovingPlatform）、棒回転（BP_RollingBar）、スイングアーム（BP_SwingArm）
 
-・プレイヤ復活
+・プレイヤがミスしたら開始位置に戻る
 
 ・経過時間表示
 
